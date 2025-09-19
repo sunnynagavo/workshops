@@ -148,7 +148,7 @@ Now let's build a real AI agent! We'll create a conversational agent that can ch
 - Play simple word games
 - Learn new facts from users
 
-Let's start coding! (See the companion file `ai_agent_workshop_code.py` for the complete code)
+Let's start coding! (See the companion file [`ai_agent_workshop_code.py`](./ai_agent_workshop_code.py) for the complete code)
 
 ### Option B: Scratch Version 🧩
 

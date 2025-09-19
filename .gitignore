@@ -35,6 +35,12 @@ public/
 #############
 .hugo_build.lock
 
+# Python #
+###########
+__pycache__/
+*.py[cod]
+*$py.class
+
 # OS generated files #
 ######################
 .DS_Store
